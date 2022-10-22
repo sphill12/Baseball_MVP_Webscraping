@@ -10,4 +10,4 @@
 ## git pull (grabs code from github):
 `git pull`
 ## Grab commit log
-'git commit'
+`git commit`
